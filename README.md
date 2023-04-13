@@ -1,26 +1,17 @@
 Hi 👋, I'm Sudharsan
 A passionate automation engineer from India
-sudharsan-selvaraj
+Rishav Trivedi
 
-👨‍💻 All of my projects are available at https://github.com/sudharsan-selvaraj
+👨‍💻 All of my projects are available at https://github.com/rishav887
 
 💬 Ask me about Test Automation
-
-📫 How to reach me sudharsanselvaraj.c@gmail.com
 
 👨🏽‍💻 Pronouns: He/him
 
 Connect with me:
-sudhus_selvaraj sudharsan-selvaraj @sudharsanselvaraj.c testninja
+rishabtrivedi87@gmail.com
 
-sudharsan-selvaraj
 
-Languages:
-java javascript typescript
 
-Frameworks and Tools:
-android angularjs docker express firebase git html5 jasmine jenkins nodejs postgresql puppeteer selenium
-
-sudharsan-selvaraj
 
 
