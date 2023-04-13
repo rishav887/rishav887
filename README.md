@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi 👋, I'm Sudharsan
+A passionate automation engineer from India
+sudharsan-selvaraj
 
-<!--
-**rishav887/rishav887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 All of my projects are available at https://github.com/sudharsan-selvaraj
 
-Here are some ideas to get you started:
+💬 Ask me about Test Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me sudharsanselvaraj.c@gmail.com
+
+👨🏽‍💻 Pronouns: He/him
+
+Connect with me:
+sudhus_selvaraj sudharsan-selvaraj @sudharsanselvaraj.c testninja
+
+sudharsan-selvaraj
+
+Languages:
+java javascript typescript
+
+Frameworks and Tools:
+android angularjs docker express firebase git html5 jasmine jenkins nodejs postgresql puppeteer selenium
+
+sudharsan-selvaraj
+
+
