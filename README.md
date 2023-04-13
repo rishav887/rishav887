@@ -14,14 +14,12 @@ rishabtrivedi87@gmail.com
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
-<a href="https://twitter.com/sudhus_selvaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sudhus_selvaraj" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/sudharsan-selvaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudharsan-selvaraj" height="30" width="40" /></a>  
-<a href="https://medium.com/@sudharsanselvaraj.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sudharsanselvaraj.c" height="30" width="40" /></a>  
-<a href="https://www.youtube.com/c/testninja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="testninja" height="30" width="40" /></a>  
+<a href="https://twitter.com/sudhus_selvaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rishav Trivedi" height="30" width="40" /></a>  
+<a href="https://linkedin.com/in/rishav-trivedi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishav Trivedi" height="30" width="40" /></a>  
 </p>  
   
   
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=sudharsan-selvaraj&show_icons=true&locale=en" alt="sudharsan-selvaraj" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=rishav887&show_icons=true&locale=en" alt="rishav trivedi" /></p>
 
 <h3 align="left">Languages:</h3>  
 <p align="left"> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
