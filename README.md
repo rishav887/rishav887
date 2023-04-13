@@ -1,16 +1,14 @@
-Hi 👋, I'm Sudharsan
-A passionate automation engineer from India
-Rishav Trivedi
-
-👨‍💻 All of my projects are available at https://github.com/rishav887
-
-💬 Ask me about Test Automation
-
-👨🏽‍💻 Pronouns: He/him
-
-Connect with me:
-rishabtrivedi87@gmail.com
-
+<h1 align="center">Hi 👋, I'm Rishav</h1>  
+<h3 align="center">A passionate automation engineer from India</h3>  
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishav887&label=Profile%20views&color=0e75b6&style=flat" alt="rishav trivedi" /> </p>  
+  
+- 👨‍💻 All of my projects are available at [https://github.com/rishav887](https://github.com/rishav887)  
+  
+- 💬 Ask me about **Test Automation**  
+  
+- 📫 How to reach me **rishabtrivedi87@gmail.com**  
+-   👨🏽‍💻 Pronouns: He/him
 
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
