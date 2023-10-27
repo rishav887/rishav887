@@ -5,7 +5,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/rishav887](https://github.com/rishav887)  
   
-- 💬 Ask me about **Java, Automation, Spring boot, Google Guice, API and framrwork in general**  
+- 💬 Ask me about **Java, Automation, Spring boot, Google Guice, API and framework in general**  
   
 - 📫 How to reach me **rishabtrivedi87@gmail.com**  
 -   👨🏽‍💻 Pronouns: He/him
